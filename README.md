@@ -1,5 +1,5 @@
 # Phishing-Detection-and-AnalysisTool
-# Phishing Detection and Analysis Tool
+
 
 An advanced phishing detection system that analyzes email content and URLs to identify potential phishing attempts. This tool uses heuristic and signature-based methods to help prevent social engineering attacks.
 
